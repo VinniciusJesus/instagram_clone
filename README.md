@@ -1,16 +1,21 @@
+![p1](https://user-images.githubusercontent.com/57817746/130707971-dfd94a36-ba33-4adc-92b4-f7c2964cab8e.jpg)
+
+![p2](https://user-images.githubusercontent.com/57817746/130708151-8011b97c-25a9-4774-b35e-d242c3629a5d.jpg)
+
+
+
 # instagram_clone
 
-A new Flutter project.
 
-## Getting Started
+## ✨ Tecnologias
 
-This project is a starting point for a Flutter application.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/) 
+- [Dart](https://dart.dev/) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Foi utilizado a versão 2.2.3, com o Null Safety
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Projeto
+
+Este projeto é um estudo de UI, onde foi realizado a clongaem do aplicativo Instagram.
